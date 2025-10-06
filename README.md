@@ -1,5 +1,5 @@
 # Ex02 Django ORM Web Application
-## Date: 1/10/2025
+## Date: 06/10/2025
 ## NAME: JAIRAM J
 ## REGISTER NO: 25012221
 
