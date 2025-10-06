@@ -49,8 +49,8 @@ class MovieAdmin(admin.ModelAdmin):
 
 
 ## OUTPUT
+<img width="1910" height="928" alt="ORM" src="https://github.com/user-attachments/assets/7a1b4eeb-5e7f-49bd-9b9a-96503165e5cc" />
 
-![alt text](<Screenshot 2025-10-03 202944.png>)
 
 
 ## RESULT
